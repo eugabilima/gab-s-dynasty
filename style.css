@@ -1,0 +1,42 @@
+body{
+background-color: rgb(247, 241, 235);
+
+}
+
+h1{
+color: rgb(255, 255, 255);
+text-align: center;
+background-color: rgb(163, 55, 131);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    max-width: 300px;
+    margin: 120px auto;
+    padding: 100px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h4{
+    color: rgb(175, 57, 146);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    color: rgb(161, 161, 161);
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #ddd;
+    border-radius: 5px
+}
